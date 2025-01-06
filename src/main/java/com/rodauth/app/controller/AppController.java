@@ -13,7 +13,7 @@ public class AppController {
 	
 	@GetMapping("/secret")
 	public String secret() {
-		return "Acceso restingido si ves este mensaje estas autorizado";
+		return "Acceso restingido si ves este mensaje estas autorizado man";
 	}
 	
 }
